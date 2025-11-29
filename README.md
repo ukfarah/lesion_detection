@@ -30,3 +30,4 @@ To get started with the lesion detection model, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/lesion_detection.git
+
